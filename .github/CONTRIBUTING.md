@@ -15,9 +15,9 @@ Please do:
 
 Please avoid:
 
-* Opening pull requests for issues marked `needs-design`, `needs-investigation`, or `blocked`.
+* Opening pull requests for issues marked [`needs-design`][nd], [`needs-investigation`][ni], or [`blocked`][blocked].
 * Adding installation instructions specifically for your OS/package manager.
-* Opening pull requests for any issue marked `core`. These issues require additional context from
+* Opening pull requests for any issue marked [`core`][core]. These issues require additional context from
   the core CLI team at GitHub and any external pull requests will not be accepted.
 
 ## Building the project
@@ -67,3 +67,7 @@ You may reference the [CLI Design System][] when suggesting features, and are we
 [GitHub Help]: https://docs.github.com/
 [CLI Design System]: https://primer.style/cli/
 [Google Docs Template]: https://docs.google.com/document/d/1JIRErIUuJ6fTgabiFYfCH3x91pyHuytbfa0QLnTfXKM/edit#heading=h.or54sa47ylpg
+[nd]: https://github.com/cli/cli/labels/needs-design
+[ni]: https://github.com/cli/cli/labels/needs-investigation
+[blocked]: https://github.com/cli/cli/labels/blocked
+[core]: https://github.com/cli/cli/labels/core
